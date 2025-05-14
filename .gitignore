@@ -1,0 +1,3 @@
+sui_checker.log
+*.log
+__pycache__/
