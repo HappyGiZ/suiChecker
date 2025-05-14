@@ -14,4 +14,6 @@ Python-скрипт для проверки балансов кошельков 
    pip install requests tabulate tqdm
 
 ## Запуск
-- В терминале python check.py
+- В терминале 
+   ```bash
+   python check.py
